@@ -32,9 +32,16 @@ The **Color Palette Generator** is built to solve the "blank canvas" problem for
     ```
 2.  **Open the project:**
     ```
-    Simply open `index.html` in your preferred web browser.
+    Open `index.html` in your preferred web browser.
     ```
 3.  **Generate:**
     ```
     Click **"Generate Palette"** or tap any color to copy its Hex code!
     ```
+
+## Illustration
+
+https://github.com/user-attachments/assets/720b72c0-79a2-41e8-b302-063bea5afe9f
+
+
+
