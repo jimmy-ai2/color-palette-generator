@@ -70,4 +70,4 @@ function updatePaletteDisplay(colors) {
   });
 }
 
-// generatePalette();
+generatePalette();
