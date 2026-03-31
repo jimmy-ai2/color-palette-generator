@@ -24,8 +24,6 @@ The **Color Palette Generator** is built to solve the "blank canvas" problem for
 - **Theme Integration:** Add the ability to generate palettes based on specific moods (e.g., "Neon," "Pastel," or "Earth Tones").
 - **Local Storage:** Save a history of generated palettes so users can revisit previous combinations.
 
----
-
 ## How to Use
 
 1.  **Clone the repository:**
