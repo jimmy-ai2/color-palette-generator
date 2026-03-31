@@ -36,7 +36,7 @@ The **Color Palette Generator** is built to solve the "blank canvas" problem for
     ```
 3.  **Generate:**
     ```
-    Click **"Generate Palette"** or tap any color to copy its Hex code!
+    Click "Generate Palette" or tap any color to copy its Hex code!
     ```
 
 ## Illustration
