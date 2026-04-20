@@ -4,6 +4,8 @@
 
 The **Color Palette Generator** is built to solve the "blank canvas" problem for creatives. By leveraging Vanilla JavaScript and modern CSS techniques, it offers a lightweight, fast, and visually pleasing way to explore color theory. Users can generate fresh palettes instantly and grab the Hex codes for their projects without manually typing them out.
 
+[Live Demo](https://jimmy-ai2.github.io/color-palette-generator/)
+
 ## Features
 
 - Instant Generation of colors with one click
